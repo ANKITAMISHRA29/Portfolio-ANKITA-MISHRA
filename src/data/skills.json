@@ -1,0 +1,30 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/Javascript.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/Bootstrap.png"
+    },
+    {
+      "title": "Flowbite",
+      "imageSrc": "skills/Flowbite.png"
+    },
+    {
+      "title": "Communication",
+      "imageSrc": "skills/Communication.png"
+    }
+  ]

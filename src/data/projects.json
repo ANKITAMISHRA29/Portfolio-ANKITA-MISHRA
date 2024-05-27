@@ -1,0 +1,26 @@
+[
+    {
+      "title": "TO-D0 List",
+      "imageSrc": "projects/to-do.png",
+      "description": "This is a project made to learn the CRUD applications.",
+      "skills": ["Html", "CSS", "Js"],
+      "demo": "https://ankitamishra29.github.io/TO-DO-LIST/",
+      "source": "https://github.com/ANKITAMISHRA29/TO-DO-LIST"
+    },
+    {
+      "title": "Responsive Putatoe Clone",
+      "imageSrc": "projects/Putatoe.png",
+      "description": "This is a project made to clone an E-commerce site to make it responsive",
+      "skills": ["Html", "CSS", "Js", "Bootstrap"],
+      "demo": "https://ankitamishra29.github.io/Putatoe/",
+      "source": "https://github.com/ANKITAMISHRA29/Putatoe"
+    },
+    {
+      "title": "TIC-TAC-TOE",
+      "imageSrc": "projects/tic.png",
+      "description": "This is a game to make you feel nostalgic about your good old days.",
+      "skills": ["Html", "CSS", "Js"],
+      "demo": "https://ankitamishra29.github.io/PRODIGY_WD_03/",
+      "source": "https://github.com/ANKITAMISHRA29/PRODIGY_WD_03"
+    }
+  ]

@@ -1,0 +1,28 @@
+[
+    {
+      "role": "Email Marketing Intern",
+      "organisation": "GEMA Education Technology Private Limited",
+      "startDate": "May, 2024",
+      "endDate": "June, 2024",
+      "experiences": ["Used strategies for bulk Email sending"],
+      "imageSrc": "history/GEMA.png"
+    },
+    {
+      "role": "Website Manager",
+      "organisation": "Dr. Mansi Pujara's Clinic",
+      "startDate": "SEPT, 2023",
+      "endDate": "OCT, 2023",
+      "experiences":["enhanced the site functionality and user experience"],
+      "imageSrc": "history/Clinic.png"
+    },
+    {
+      "role": "Management Lead",
+      "organisation": "GDSC,Amity University Lko Campus",
+      "startDate": "Aug, 2023",
+      "endDate": "2024",
+      "experiences": [
+        "enhanced tech engagement through workshops, fostering innovation, and mentoring, while strengthening industry and student connections."
+      ],
+      "imageSrc": "history/google.png"
+    }
+  ]
