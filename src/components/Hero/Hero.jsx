@@ -8,7 +8,7 @@ export const Hero = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [typingSpeed, setTypingSpeed] = useState(150);
 
-  const greetings = ["Hi", "नमस्ते", "হ্যালো", "வணக்கம்"];
+  const greetings = ["Hi", "नमस्ते", "হ্যালো", "ہیلو"];
 
   useEffect(() => {
     let typingTimeout;
